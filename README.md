@@ -1,4 +1,5 @@
 # Projet Innovation
+![](https://repository-images.githubusercontent.com/498229209/ed82dd99-dce7-440b-bffc-53dfdfed9555)
 ## Français
 ### Contexte
 Ces derniers mois, des sujets tournant autour du Métavers, ont refait surface après l'annonce dans l'actualité de grandes entreprises comme Meta.
